@@ -1,0 +1,561 @@
+a{
+					color: #fd4326;
+				}
+				.mobile-navigation{
+					border-color:#fd4326;
+				}
+				.mobile-navigation:hover, .mobile-navigation:focus{
+					color: #fd4326;
+				}
+				.ts-bt{
+					background: #fd4326;
+					border-color:#fd4326;
+				}
+				.ts-bt:hover, .ts-bt:focus{
+					color: #fd4326;
+				}
+				.breadcrumbs a:hover{
+					color: #fd4326;
+				}
+				.ts-style-button:hover{
+					background: #fd4326;
+				}
+				.top-header ul li a:hover, .top-header ul li a:hover .fa{
+					color: #fd4326;
+				}
+				.main-menu ul > li .dropdown-menu li a:hover,
+				.main-menu ul > li .dropdown-menu li.active a,
+				.main-menu ul > li .dropdown-menu li a:focus{
+					color: #fd4326;
+				}
+				.main-menu ul > li .dropdown-menu > li.menu-item-has-children > a:hover:after{
+				  color: #fd4326;
+				}
+				.ts-service-style-1 .service-icon:after{
+					box-shadow: 0 0 0 4px #fd4326;
+					-moz-box-shadow: 0 0 0 4px #fd4326;
+					-webkit-box-shadow: 0 0 0 4px #fd4326;
+				}
+				.ts-service-style-1:hover .service-icon{
+					background: #fd4326;
+				}
+				.ts-service-style-1 .read-more{
+					color: #fd4326;
+				}
+				.ts-search-domain input[type="submit"],
+				.ts-search-domain input[type="submit"]:hover,
+				.ts-search-domain input[type="submit"]:focus{
+					background-color: #fd4326;
+				}
+				.ts-search-domain .sm_links a:hover{
+					color: #fd4326;
+				}
+				.ts-pricing-table-style1 a.cta_pricing:hover,
+				.ts-pricing-table-style1 a.cta_pricing:focus{
+					background: #fd4326;
+				}
+				.ts-pricing-table-style1.active{
+					background: #fd4326;
+				}
+				.ts-pricing-table-style1.active .price-unit{
+					background: #fd4326;
+				}
+				.ts-pricing-table-style1.active a.cta_pricing:hover,
+				.ts-pricing-table-style1.active a.cta_pricing:focus{
+					color: #fd4326;
+				}
+				.ts-testimonial-style1 .client-quote .fa{
+					color: #fd4326;
+				}
+				.ts-testimonial-style1 .client-website a{
+					color: #fd4326;
+				}
+				.owl-theme .owl-controls .owl-page.active{
+					border-color: #fd4326;
+				}
+				.owl-theme .owl-controls .owl-page.active span, 
+				.owl-theme .owl-controls.clickable .owl-page:hover span {
+				  background: #fd4326;
+				}
+				.ts-acordion h3 .fa{
+					color: #fd4326;
+				}
+				.ts-acordion.ui-accordion .ui-accordion-header .ui-accordion-header-icon{
+					color: #fd4326;
+				}
+				.ts-acordion .ui-accordion-header:before{
+					color: #fd4326;
+				}
+				.ts-acordion.ts-acordion-style2 .ui-accordion-header.ui-state-active{
+					color: #fd4326;
+				}
+				.ts-acordion.ts-acordion-style2.ui-accordion .ui-accordion-header.ui-state-active .ui-accordion-header-icon{
+					color: #fd4326;
+				}
+				.ts-domain-price-box .domain-price{
+					color: #fd4326;
+				}
+				.ts-service-style-2:hover .icon-service{
+					color: #fd4326;
+				}
+				.ts-service-style-2:hover h3{
+					color: #fd4326;
+				}
+				.ts-pricing-table-style2 a.cta_pricing:hover{
+					background: #fd4326;
+				}
+				.ts-pricing-table-style2.active{
+					background: #fd4326;
+				}
+				.ts-pricing-table-style2.active a.cta_pricing:hover{
+					color: #fd4326;
+				}
+				.ts-testimonial-style2 .client-website a {
+				  color: #fd4326;
+				}
+				.ts-testimonial-style2.dark .client-website a:hover{color: #fd4326;}
+				.ts-feature-item-style2 .icon-feature{
+					color: #fd4326;
+				}
+				.ts-feature-item-2 .feature-icon{
+					background: #fd4326;
+				}
+				.ts-item-post .ts-main-recent-post a:hover h4{
+					color:#fd4326;
+				}
+				.ts-item-post h4 a:hover{
+					color: #fd4326
+				}
+				.ts-item-post .ts-item-post-footer i{
+					color: #fd4326;
+				}
+				.ts-item-post .ts-item-post-footer a:hover{
+					color: #fd4326;
+				}
+				.ts-section-top-footer{
+					background: #fd4326;
+					
+				}
+				.contact-info:hover span{
+					border-color: #fd4326;
+				}
+				.contact-info:hover span i{
+					color: #fd4326;
+				}
+				.ts-company-info a:hover{
+					color: #fd4326;
+				}
+				.ts-support ul li a:hover{
+					color: #fd4326;
+				}
+				.ts-support ul li i{
+					color: #fd4326;
+				}
+				.ts-control-pane ul li a:hover{
+					color: #fd4326;
+				}
+				.ts-control-pane ul li i{
+					color: #fd4326;
+				}
+				.ts-form-subscribe .subcribe-btn{
+					background: #fd4326;
+				}
+				.ts-social-footer a:hover span{
+					background: #fd4326;
+				}
+				.ts-menu-footer ul li a:hover{
+					color: #fd4326;
+				}
+				.ts-service-style3 a:hover h4{
+					color: #fd4326;
+				}
+				.ts-special-offer .ts-special-offer-content ul li:before{
+					color: #fd4326;
+				}
+				.ts-special-offer .ts-special-offer-content ul a:hover{
+					color: #fd4326;
+				}
+				.ts-hosting-price span.ts-special-offer-price{
+					color:#fd4326;
+				}
+				.ts-special-offer-content .ts-offer-right a{
+					background: #fd4326;
+				}
+				.ts-number-statistic i{
+					color: #fd4326;
+				}
+				.ts-number-statistic a:hover{
+					color: #fd4326;
+				}
+				.ts-number-statistic a:hover h3{
+					color: #fd4326;
+				}
+				.widget-list-posts i{
+					color: #fd4326;
+				}
+				.widget-list-posts a:hover{
+					color: #fd4326;
+				}
+				.ts-list-popular-topics li .red-text{
+					color:#fd4326;
+				}
+				footer .widget ul li a:before{
+					color: #fd4326;
+				}
+				.ts-big-caption span, .ts-big-caption-center span{
+					color: #fd4326;
+				}
+				.ts-caption-small-center{
+					color: #fd4326!important;
+				}
+				.ts-caption-small .fa{
+					background: #fd4326;
+				}
+				.ts-caption-small-right .fa{
+					background: #fd4326;
+				}
+				.ts-price-rev span, .ts-price-rev-right span{
+					color: #fd4326;}
+				.ts-button-slide-2{
+					background: #fd4326!important;
+					border-color: #fd4326!important;
+				}
+				.ts-button-slide:hover{
+					background: #fd4326!important;
+					border-color: #fd4326!important;
+				}
+				.ts-button-slide-2:hover a,
+				.ts-button-slide-2 a:hover{
+					color: #fd4326;
+				}
+				.ts-number{
+					color: #fd4326;
+				}
+				.tp-leftarrow.default:hover, .tp-rightarrow.default:hover{
+					color: #fd4326;
+				}
+				.ts-whmcs li .item-right strong a:hover{
+					color: #fd4326;
+				}
+				.date-post span.month{
+					background: #fd4326;
+				}
+				.blog-item h3 a:hover{
+					color: #fd4326;
+				}
+				.blog-meta li a:hover{
+					color: #fd4326;
+				}
+				.blog-meta li .fa{
+					color: #fd4326;
+				}
+				.ts-button:hover, input[type="submit"]:hover, .more-link:hover, button:hover{
+					background:  #fd4326;
+					border-color: #fd4326;
+				}
+				.blog-item .group-share a:hover, .group-share a:hover {
+					color: #fd4326;
+				}
+				.pagination > .active > a, 
+				.pagination > .active > span, 
+				.pagination > .active > a:hover, 
+				.pagination > .active > span:hover, 
+				.pagination > .active > a:focus, 
+				.pagination > .active > span:focus,
+				.pagination > li > a:hover,
+				.pagination > li > a:focus,
+				.page-links a:hover {
+					background-color: #fd4326;
+				    border-color: #fd4326;
+				}
+				.page-links > span{
+					background-color: #fd4326;
+				  	border-color:#fd4326;
+				}
+				.blog-quote{
+					border-color: #fd4326;
+				}
+				.blog-link:before{
+					color: #fd4326;
+				}
+				.owl-theme .owl-controls .owl-buttons div:hover, .owl-theme .owl-controls .owl-buttons div:focus {
+				  background: #fd4326;
+				 }
+				 blockquote{
+					border-color:#fd4326;
+				}
+				#searchform button[type="submit"]:hover{
+					background: #fd4326;
+				}
+				.widget ul li a:before, .widget_recent_comments li.recentcomments:before {
+					color: #fd4326;
+				}
+				.widget ul li a:hover{
+					color: #fd4326;
+				}
+				.domainchecker  button[type="submit"]:hover{
+					background: #fd4326!important;
+				}
+				.widget_tag_cloud .tagcloud a:hover{
+					background: #fd4326;
+				}
+				.comment-item .comment-reply-link:hover{
+					color: #fd4326;
+				}
+				.ts-service-style-3 .icon-service{
+					color: #fd4326;
+				}
+				.ts-service-style-4:hover .icon-service{
+					background: #fd4326;
+					border-color: #fd4326;
+				}
+				.ts-service-style-5 .icon-service{
+					background: #fd4326;
+
+
+				}
+				.team-item-style2 .social-network a:hover{
+					background: #fd4326;
+				}
+				.team-item .social-network-team  li a:hover{
+					color: #fd4326;
+				}
+				.ts-list-ul ul li:before{
+					color: #fd4326;
+				}
+				.countdownstyle1 .ts-date-countdown.ts-day-count{
+					background: #fd4326
+				}
+				.countdownstyle2 .ts-date-countdown.ts-day-count{
+					color: #fd4326;
+				}
+				#wp-calendar a:hover{
+				    color: #fd4326;
+				}
+				.ts-showmore:hover{
+					background: #fd4326;
+				}
+				.quote-type-style2:before{
+					color: #fd4326;
+				}
+				.ts-list-style ul li a:hover{
+					color: #fd4326;
+				}
+				.ts-list-style.underlist li a{
+					color: #fd4326;
+				}
+				#filters-portfolio .cbp-filter-item.cbp-filter-item-active,
+				#filters-portfolio .cbp-filter-item:hover{
+					background-color: #fd4326;
+				}
+				.ts-contact-infomation a:hover{
+					color: #fd4326;
+				}
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current_page_item > a,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current_page_item > a:hover,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current-menu-parent > a,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current-menu-parent > a:hover,
+				.ts-menu-sidebar > ul > li.current_page_item > a,
+				.ts-menu-sidebar > ul > li.current_page_item > a:hover{
+					background: #fd4326;
+				}
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current_page_item > a:after,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current-menu-parent > a:after,
+				.ts-menu-sidebar > ul > li.current_page_item > a:after{
+					border-left: 6px solid #fd4326;
+				}
+				.ts-menu-sidebar li .sub-menu a:hover,
+				.ts-menu-sidebar li .sub-menu li.current_page_item a{
+					color: #fd4326;
+				}
+				.contact-info span{background:#fd4326; }
+				/* WOOCOMERCE */
+				.woocommerce nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce nav.woocommerce-pagination ul li span.current, 
+				.woocommerce #content nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce #content nav.woocommerce-pagination ul li span.current, 
+				.woocommerce-page nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce-page nav.woocommerce-pagination ul li span.current, 
+				.woocommerce-page #content nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce-page #content nav.woocommerce-pagination ul li span.current{
+				    background: #fd4326!important;
+				    border-color: #fd4326!important;
+				}
+				.woocommerce .star-rating span, .woocommerce-page .star-rating span {
+				    color: #fd4326!important;
+				}
+				.woocommerce table.cart a.remove:hover, .woocommerce #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover {
+				    color: #fd4326!important;
+				}
+				.woocommerce .addresses .title .edit:hover, .woocommerce-page .addresses .title .edit:hover{
+				    background: #fd4326!important;
+				}
+				.price_slider_amount .price_label span{
+				    color: #fd4326!important;
+				}
+				.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, 
+				.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle{
+				    background: #fd4326!important;
+				}
+				.chosen-container-single .chosen-single span:after {
+				    color: #fd4326!important;
+				}
+				.widget_price_filter .ui-slider-horizontal {
+				    background: #fd4326!important;
+				}
+				.widget_price_filter .price_slider_amount .button:hover{
+				    background: #fd4326!important;
+				}
+				.product-categories li a:before {
+				    color: #fd4326!important;
+				}
+				.product-categories li a:hover {
+				    color: #fd4326!important;
+				}
+				.woocommerce  a.button.product_type_simple:hover,
+				.woocommerce  a.button.product_type_variable:hover,
+				.woocommerce  a.button.add_to_cart_button:hover,
+				.woocommerce  a.button.product_type_simple.added:hover,
+				.woocommerce  a.button.product_type_simple:hover{
+				    background: #fd4326!important;
+				    color: #fd4326!important;
+				}
+				#commentform .stars > span a:hover:before, #commentform .stars > span a.active:before {
+				  color: #fd4326!important;
+				}
+				.woocommerce .comment-form input[type="submit"]:hover{
+				    background: #fd4326!important;
+				}
+				.shipping_calculator h2 a:hover{
+				    color: #fd4326!important;
+				}
+				.added_to_cart.wc-forward:hover{
+				    background: #fd4326!important;
+				}
+				.woocommerce-message .button:hover{
+				    background: #fd4326!important;
+				}
+				li.mini-shoping-cart-wraper .buttons a:hover{
+				    background: #fd4326!important;
+				}
+				.toggle-bar-btn {
+					border-color: #fd4326 #fd4326 transparent transparent;
+				}
+				.widget_mc4wp_widget input[type="submit"]{
+					background: #fd4326
+				}
+				.ts-suport-header .header-suport  .header-phone{
+					color: #fd4326;
+				}
+				.ts-suport-header .header-signup-chat li.header-chat span.icon{
+					background: #fd4326;
+				}
+				.main-header-style2 .main-menu > ul > li > a:hover,
+				.main-header-style2 .main-menu > ul > li:hover > a{
+					background: none;
+					color: #fd4326;
+				}
+				.ts-special-offer-style2  .ts-special2 a{
+					background: #fd4326;
+				}
+				.ts-special-offer-style2  .ts-special2 a:hover{
+					color: #fd4326;
+				}
+				.ts-mediumcaption-3 span{
+					color: #fd4326;
+				}
+				.ts-listcaption1-3:before{
+					color: #fd4326;
+				}
+				.ts-listcaption1-3 span{
+					color: #fd4326;
+				}
+				.ts-button-s3{
+					background: #fd4326!important;
+				}
+				.tp-caption.ts-button-s3:hover a, .tp-caption.ts-button-s3 a:hover{color: #fd4326;}
+				.ts-button-s3:hover{
+					color: #fd4326;
+				}
+				.ts-small-caption-3 span{
+					color: #fd4326;
+				}
+				.tp-caption.ts-bg-3, .ts-bg-3{
+					background: rgba(253,67, 38, 0.5)!important;
+				}
+				.ts-service-img .service-content a.cta_pricing{
+				    background: #fd4326;
+				    border-color:#fd4326;
+				}
+				.ts-service-img .service-content a.cta_pricing:hover{
+				    color: #fd4326;
+				}
+				.ts-pricing-table-style3 .price-icon .pricing-icon{
+				    background: #fd4326;
+				}
+				.ts-pricing-table-style3 .price-unit .price-unit{
+				    color: #fd4326;
+				}
+				.ts-pricing-table-style3.active .price-unit{
+				    background: #fd4326;
+				}
+				.ts-pricing-table-style3 p a.cta_pricing:hover,.ts-pricing-table-style3.active a.cta_pricing{
+				    background: #fd4326;
+				    border-color:#fd4326;
+				}
+				.ts-pricing-table-style3.active a.cta_pricing:hover{
+				    color: #fd4326;
+				}
+				li.mini-shoping-cart-wraper a:hover span,
+				li.mini-shoping-cart-wraper:hover a span{
+					border-color: #fd4326;
+				}
+				.ts-pricingtable-5 .price-icon{
+					background: #fd4326;
+				}
+				.ts-pricingtable-5 .price-unit{
+					color: #fd4326;
+				}
+				.ts-pricingtable-5 .ts-bt-pricing{
+					background: #fd4326; 
+					border-color: #fd4326;
+				}
+				.ts-pricingtable-5 .ts-bt-pricing:hover{
+					color: #fd4326;
+				}
+				.ts-pricingtable-5 table td .inner-td.ts-icon-check, .ts-icon-check{
+					color: #fd4326;
+				}
+				.ts-search-whois #domain .l1 input[type="submit"]{
+					background-color: #fd4326;
+				}
+				.ts-pricing-table-style3.ts-whmpress button:hover{
+					border-color: #fd4326;
+				}
+				.ts-pricing-table-style3.active.ts-whmpress button{
+					background: #fd4326;
+					border-color: #fd4326;
+				}
+				.ts-pricing-table-style3.active.ts-whmpress button:hover{
+					color: #fd4326;
+				}
+				.ts-service-img.ts-whmpress .service-content button {
+				  background: #fd4326;
+				  border-color: #fd4326;
+				}
+				.ts-service-img.ts-whmpress .service-content button:hover {
+				  color: #fd4326;
+				}
+				.ts-pricing-table-style2.ts-whmpress.active button:hover {
+				  color: #fd4326;
+				}
+				.ts-pricing-table-style2.ts-whmpress button:hover {
+				  background: #fd4326;
+				}
+				.ts-pricing-table-style1.ts-whmpress button:hover, 
+				.ts-pricing-table-style1.ts-whmpress button:focus {
+				  background: #fd4326;
+				}
+				.ts-pricing-table-style1.ts-whmpress.active button:hover{
+					color: #fd4326;
+				}

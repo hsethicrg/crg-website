@@ -1,0 +1,155 @@
+<?php
+//echo "abc";exit;
+include("../include/functions.php");
+
+require '../PHPMailer/PHPMailerAutoload.php';
+
+$name       = $_POST['name'];
+$email      = $_POST['email'];
+$mobile     = $_POST['mobile'];
+$type       = ucwords($_POST['type']);
+$comp       = $_POST['company'];
+$comment    =  !empty($_POST['message']) ? $_POST['message'] : '';
+$subjectvalue = $_POST['subjectvalue'];
+
+//$return = insert_contact_us_data($name, $email,"", $mobile,"", $type);
+
+ini_set('max_execution_time', 0);
+date_default_timezone_set('Asia/Kolkata');
+
+$mail = new PHPMailer();
+//$mail->isSMTP();
+//$mail->SMTPDebug = 0;
+//$mail->Debugoutput = 'html';
+//$mail->Host = 'ssl://smtp.gmail.com';
+//$mail->Port = 465;
+//$mail->SMTPSecure = 'ssl';
+//$mail->SMTPAuth = true;
+//$mail->Username = "info@crgroup.co.in";
+//$mail->Password = "CRG!#123";
+
+$mail->ClearAllRecipients();
+
+$mail->setFrom('info@crgroup.co.in','CRG Solutions Pvt. Ltd.');
+
+if($subjectvalue == "Tableau Implementation Inquiry") {
+$mail->Subject = 'CRG India Website - Tableau Implementation Inquiry';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+
+}
+
+else if($subjectvalue=="Tableau General Inquiry"){
+$mail->Subject = 'CRG India Website - Tableau General Inquiry';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+
+else if($subjectvalue=="Atlassian Inquiry"){
+$mail->Subject = 'CRG India Website - Atlassian Inquiry';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+
+}
+
+else if($subjectvalue=="Datawatch Business Leaders Inquiry"){
+$mail->Subject = 'CRG India Website - Datawatch Business Leaders Inquiry';
+$mail->addAddress('adebashis.matainja@gmail.comn');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+
+
+else if($subjectvalue=="Datawatch General Inquiry"){
+$mail->Subject = 'CRG India Website - Datawatch General Inquiry';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+
+else if($subjectvalue=="Engage Inquiry"){
+$mail->Subject = 'CRG India Website - Engage Inquiry';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+
+else if($subjectvalue=="request a set"){
+$mail->Subject = 'CRG India Website - Request A Set';
+$mail->addAddress('debashis.midya87@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+
+
+else if($subjectvalue=="Cousulting Session"){
+$mail->Subject = 'CRG India Website - Cousulting Session';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+else if($subjectvalue=="data save"){
+$mail->Subject = 'CRG India Website - save';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+
+else if($subjectvalue=="Datawatch"){
+$mail->Subject = 'CRG India Website - Datawatch';
+$mail->addAddress('debashis.matainja@gmail.com');
+$mail->AddCC('itmindmap@gmail.com');
+
+
+}
+
+
+else {
+$mail->Subject = 'CRG India Website';
+}
+
+
+
+
+
+$msg = file_get_contents('../templates/free_trial_info.html');
+$msg = str_replace('{NAME}', $name, $msg);
+$msg = str_replace('{EMAIL}', $email, $msg);
+$msg = str_replace('{MOBILE}', $mobile, $msg);
+$msg = str_replace('{TYPE}', $type, $msg);
+$msg = str_replace('{COMPANY}', $comp, $msg);
+$msg = str_replace('{MESSAGE}', $comment, $msg);
+
+
+$mail->msgHTML($msg);
+
+$mail->send();
+
+$mail->ClearAllRecipients();
+$mail->Subject = 'Thank you for contacting us';
+
+$msg1 = '';
+$msg1 = file_get_contents('../templates/free_trial_response.html');
+$msg1 = str_replace('{NAME}', $name, $msg1);
+
+$mail->addAddress($email, $name);
+$mail->msgHTML($msg1);
+$mail->send();
+
+header("location:http://www.crgroup.co.in/beta/contact.php");
+?>
+
+<!--$mail->addAddress('avaidhya@crgroup.in');
+$mail->AddCC('sghosh@crgroup.in');-->
