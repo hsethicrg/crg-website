@@ -5,25 +5,25 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
       <title>CRG Solutions Pvt Ltd</title>
       <meta name="viewport" content="width=device-width">
-      <link rel="shortcut icon" href="images/favicon.png" />
-      <link rel='stylesheet' id='config-css'  href='css/ts-config.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='mailchimp-checkbox-css'  href='css/checkbox.min.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='font-awesome.min-css'  href='css/font-awesome.min.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='jquery.flipcountdown-css'  href='css/jquery.flipcountdown.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='jquery-ui-css'  href='css/jquery-ui.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='bootstrap.min-css'  href='css/bootstrap.min.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='owl.carousel-css'  href='css/owl.carousel.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='easy-responsive-tabs-css'  href='css/easy-responsive-tabs.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='jquery.circliful-css'  href='css/jquery.circliful.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='cubeportfolio.min-css'  href='css/cubeportfolio.min.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='megamenu-css'  href='css/megamenu.css' type='text/css' media='all' />
-      <link rel='stylesheet' id='styles-css'  href='css/styles.css' type='text/css' media='all' />
-      <link rel="stylesheet" id="custom-css" href="css/mobile.css" type="text/css" media="all" />
-      <link rel="stylesheet" id="custom-css" href="css/stylesheet.css" type="text/css" media="all" />
+      <link rel="shortcut icon" href="../images/favicon.png" />
+      <link rel='stylesheet' id='config-css'  href='../css/ts-config.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='mailchimp-checkbox-css'  href='../css/checkbox.min.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='font-awesome.min-css'  href='../css/font-awesome.min.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='jquery.flipcountdown-css'  href='../css/jquery.flipcountdown.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='jquery-ui-css'  href='../css/jquery-ui.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='bootstrap.min-css'  href='../css/bootstrap.min.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='owl.carousel-css'  href='../css/owl.carousel.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='easy-responsive-tabs-css'  href='../css/easy-responsive-tabs.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='jquery.circliful-css'  href='../css/jquery.circliful.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='cubeportfolio.min-css'  href='../css/cubeportfolio.min.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='megamenu-css'  href='../css/megamenu.css' type='text/css' media='all' />
+      <link rel='stylesheet' id='styles-css'  href='../css/styles.css' type='text/css' media='all' />
+      <link rel="stylesheet" id="custom-css" href="../css/mobile.css" type="text/css" media="all" />
+      <link rel="stylesheet" id="custom-css" href="../css/stylesheet.css" type="text/css" media="all" />
       <!--[if IE 8]>
       <link rel="stylesheet" type="text/css" href="css/vc-ie8.css" media="screen">
       <![endif]-->	
-      <link rel='stylesheet'   href='css/layout.css' type='text/css' media='all' />
+      <link rel='stylesheet'   href='../css/layout.css' type='text/css' media='all' />
       <link rel='stylesheet' id='redux-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A300%2C500%2C400%2C100&#038;ver=1428634381' type='text/css' media='all' />
       <!--Start of Zopim Live Chat Script-->
       <!--        <script type="text/javascript">        window.$zopim||(function(d,s){var z=$zopim=function(c){        z._.push(c)},$=z.s=        d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.        _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');        $.src='//v2.zopim.com/?4DPo3favbnE3NcQ3Zn7r5xg7lxoQ6GIR';z.t=+new Date;$.        type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');        </script> 
@@ -45,7 +45,7 @@
                   <div class="modal-body">
                      <div class="row">
                         <div class="col-sm-12">
-                           <img src="images/IMG_0766.JPG" class="ts_single_image-img attachment-thumbnail img-responsive" alt="imgtab"/>
+                           <img src="../images/IMG_0766.JPG" class="ts_single_image-img attachment-thumbnail img-responsive" alt="imgtab"/>
                         </div>
                      </div>
                   </div>

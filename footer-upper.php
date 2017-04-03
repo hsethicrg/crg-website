@@ -62,10 +62,10 @@
                <h3 class="title">Partners</h3>
                <div class="menu-support-help-container">
                   <ul id="menu-support-help" class="menu">
-                     <li class="menu-item"><a title="Tableau" href="#"><img src="images/tableau_icon.png" width="150" class="img-responsive ts-partner"></a></li>
-                     <li class="menu-item"><a title="Atlassian" href="#"><img src="images/atlassian_icon.png" width="150" class="img-responsive ts-partner"></a></li>
-                     <li class="menu-item"><a title="Datawatch" href="#"><img src="images/datawatch_icon.png" width="150" class="img-responsive ts-partner"></a></li>
-                     <li class="menu-item"><a title="Engage" href="#"><img src="images/engage_icon.png" width="150" class="img-responsive ts-partner"></a></li>
+                     <li class="menu-item"><a title="Tableau" href="#"><img src="../images/tableau_icon.png" width="150" class="img-responsive ts-partner"></a></li>
+                     <li class="menu-item"><a title="Atlassian" href="#"><img src="../images/atlassian_icon.png" width="150" class="img-responsive ts-partner"></a></li>
+                     <li class="menu-item"><a title="Datawatch" href="#"><img src="../images/datawatch_icon.png" width="150" class="img-responsive ts-partner"></a></li>
+                     <li class="menu-item"><a title="Engage" href="#"><img src="../images/engage_icon.png" width="150" class="img-responsive ts-partner"></a></li>
                  
                   </ul>
                </div>

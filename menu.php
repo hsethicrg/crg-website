@@ -28,7 +28,7 @@
    <div class="main-header">
       <div class="container">
          <div class="logo">
-            <h1><a href="index.php" class="ariva_logo"><img class="img-responsive img-logo" src="images/CRG-Logos/logo.png"  alt="CRG Solutions Pvt Ltd"></a></h1>
+            <h1><a href="index.php" class="ariva_logo"><img class="img-responsive img-logo" src="../images/CRG-Logos/logo.png"  alt="CRG Solutions Pvt Ltd"></a></h1>
          </div>
          <a href="#" class="mobile-navigation"><i class="fa fa-bars"></i></a>						
          <div class="pull-right ts-mainmenu">
